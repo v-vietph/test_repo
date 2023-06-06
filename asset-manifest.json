@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test_repo/static/css/main.8d6a17ca.css",
-    "main.js": "/test_repo/static/js/main.7f751cb3.js",
-    "static/media/hero-dark.jpg": "/test_repo/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/test_repo/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/test_repo/service-worker.js",
-    "static/media/GH.svg": "/test_repo/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/logo.svg": "/test_repo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/test_repo/index.html",
-    "main.8d6a17ca.css.map": "/test_repo/static/css/main.8d6a17ca.css.map",
-    "main.7f751cb3.js.map": "/test_repo/static/js/main.7f751cb3.js.map"
+    "main.css": "/static/css/main.8d6a17ca.css",
+    "main.js": "/static/js/main.3b1fb7eb.js",
+    "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.8d6a17ca.css.map": "/static/css/main.8d6a17ca.css.map",
+    "main.3b1fb7eb.js.map": "/static/js/main.3b1fb7eb.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6a17ca.css",
-    "static/js/main.7f751cb3.js"
+    "static/js/main.3b1fb7eb.js"
   ]
 }
